@@ -1,238 +1,281 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=FERNANDA.EXE&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
-
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/pixel-art.gif" width="280">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=12,20,24,30&section=header"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=C084FC&center=true&vCenter=true&width=1200&lines=⭐+WELCOME+TO+MY+PROFILE+⭐;💜+PROGRAMMER+GIRL;🎮+POKÉMON+•+MINECRAFT;⚡+JAVA+•+JS+•+PYTHON;✨+PIXEL+ART+LOVER"/>
+<div align="center">
+
+<img height="180" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/197.png"/>
 
 </div>
-
----
 
 <div align="center">
 
-⭐ 🌙 ⭐ 🌙 ⭐ 🌙 ⭐ 🌙 ⭐
+<b>`プ ロ グ ラ マ ー`</b>
+
+<samp>
+
+Olá! Eu sou <b>Fernanda Lima</b> 💜
+
+</samp>
 
 </div>
 
-# 🎀 PLAYER CARD
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=1200&lines=⭐+Fernanda+Lima;💜+Desenvolvedora+Front-End;⚡+Java+•+JavaScript+•+Python;🎨+Artista+Iniciante;🌙+Fã+de+Pokémon+e+Minecraft;✨+Sempre+Aprendendo+Coisas+Novas"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+⭐ ✦ 🌙 ✦ ⭐ ✦ 🌙 ✦ ⭐ ✦ 🌙 ✦ ⭐
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/fernanda.exe-1A1325?style=for-the-badge&logo=github&logoColor=C084FC"/>
+
+<img src="https://img.shields.io/badge/Desenvolvedora-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Artista-A855F7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gamer-9333EA?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2"/>
+
+# 🌙 Sobre Mim
 
 ```yaml
-name: Fernanda Lima
+nome: Fernanda Lima 💜
 
-class: Gamer Developer
+cargo: Estudante de Programação
 
-level: 99
+curso:
+  - Análise e Desenvolvimento de Sistemas
 
-status: Online
+especialidades:
+  - Desenvolvimento Front-End
+  - Desenvolvimento Web
+  - Design de Interface
 
-favorite_games:
-  - Minecraft
-  - Pokémon
-  - Roblox
+estudando:
+  - Java ☕
+  - JavaScript ⚡
+  - Python 🐍
+  - Git & GitHub 🌙
 
-favorite_color:
-  - Purple 💜
+lado_criativo:
+  - Artista Iniciante 🎨
+  - Apaixonada por Pixel Art ⭐
+  - Criando Designs Fofos ✨
 
-mode:
-  - Coding
-  - Gaming
-  - Building
+interesses:
+  - Pokémon 🌙
+  - Minecraft ⛏️
+  - Tecnologia 💻
+  - Design 💜
+  - Programação 👾
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2"/>
+
+# 💜 Objetivos Atuais
+
+```txt
+⭐ Melhorar minhas habilidades em Java
+
+⭐ Aprender mais JavaScript
+
+⭐ Criar projetos melhores
+
+⭐ Melhorar meu Design de Interface
+
+⭐ Praticar Arte Digital
+
+⭐ Construir meu Portfólio
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2"/>
 
 <div align="center">
 
-# 💻 CODING SKILLS
+# ⚡ Tecnologias
 
 <img src="https://skillicons.dev/icons?i=java,js,python,html,css"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-# 🛠 TOOLS
+# 🛠 Ferramentas
 
-<img src="https://skillicons.dev/icons?i=vscode,github,git"/>
+<img src="https://skillicons.dev/icons?i=vscode,github,git,figma"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-# 📊 GITHUB STATS
+# 💻 Jornada na Programação
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Limasoussa&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Limasoussa&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,git,github"/>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2"/>
 
 <div align="center">
 
-# 🏆 ACHIEVEMENTS
+# 📊 Estatísticas do GitHub
 
-<img src="https://github-profile-trophy.vercel.app/?username=Limasoussa&theme=discord&no-frame=true&row=1&column=6"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Limasoussa&rank_icon=github&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Limasoussa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Limasoussa&theme=tokyonight"/>
 
 </div>
 
----
+<br>
 
-# 🌙 NIGHT SKY
+<div align="center">
+
+# 🏆 Conquistas
+
+<img src="https://github-profile-trophy.vercel.app/?username=Limasoussa&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2"/>
+
+# 📚 Estudando Atualmente
 
 ```txt
-✦　　　˚ 　 ✦
-　　⭐　˚　　 ✦
-˚　　　🌙　　⭐
-　　 ✦　　˚
-⭐　　 ✦　　 🌙
+🟣 Programação Orientada a Objetos
+
+🟣 Desenvolvimento Front-End
+
+🟣 Design Responsivo
+
+🟣 Projetos no GitHub
+
+🟣 Conceitos de UI / UX
 ```
 
 ---
 
-# 👾 POKÉDEX
+# 🎨 Cantinho Criativo
 
 ```txt
-╭───────────────╮
+⭐ Artista Iniciante
 
-👻 GENGAR
+🌙 Aprendendo Arte Digital
 
-🌙 UMBREON
+💜 Apaixonada por Pixel Art
 
-🎀 SYLVEON
-
-✨ MIMIKYU
-
-╰───────────────╯
+✨ Criando Designs Fofos
 ```
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png">
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png">
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/700.png">
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png">
 
 ---
 
-# ⛏️ MINECRAFT DATA
+# ⭐ Nível de Habilidades
 
 ```txt
-╭────────────────────╮
+Java ............... ██████████
 
-WORLD:
+JavaScript ......... ██████████
+
+Python ............. ████████░░
+
+HTML ............... ██████████
+
+CSS ................ ██████████
+```
+
+---
+
+# 👾 Equipe Pokémon
+
+```txt
+🌙 Umbreon
+
+👻 Gengar
+
+🎭 Mimikyu
+
+🎀 Sylveon
+```
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png"/>
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png"/>
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png"/>
+
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/700.png"/>
+
+</div>
+
+---
+
+# ⛏️ Status do Minecraft
+
+```txt
+MUNDO:
 🟪 THE END
 
-FAVORITE BLOCK:
-💎 AMETHYST
+BLOCO FAVORITO:
+💎 AMETISTA
 
 STATUS:
-⛏️ BUILDING...
-
-╰────────────────────╯
+⛏️ CONSTRUINDO...
 ```
 
 ---
 
-# 💜 SKILL LEVEL
-
-```txt
-JAVA ............. ██████████
-
-JAVASCRIPT ....... ██████████
-
-PYTHON ........... ████████░░
-
-HTML ............. ██████████
-
-CSS .............. ██████████
-```
-
----
-
-# 🎮 GAME STATUS
-
-```txt
-MINECRAFT ........ ONLINE
-
-POKÉMON .......... ONLINE
-
-ROBLOX ........... ONLINE
-
-GAMER MODE ....... ENABLED
-```
-
----
-
-# ⭐ MAGIC INVENTORY
-
-```txt
-💜 Purple Crystals
-
-⭐ Stars
-
-🌙 Moon Fragments
-
-👾 Pokéballs
-
-⛏️ Diamond Pickaxe
-```
-
----
-
-# 🌌 NOW PLAYING
-
-```txt
-🎧 Minecraft OST
-
-🌙 Pokémon Night Theme
-
-💜 Lofi Coding Mix
-
-✨ Chill Gaming Playlist
-```
-
----
-
-# 🖥 TERMINAL
+# 🌌 Terminal
 
 ```bash
-> loading fernanda.exe
+> carregando fernanda.exe
 
-> importing java...
+> carregando java...
 
-> importing javascript...
+> carregando javascript...
 
-> importing python...
+> carregando python...
 
-> loading minecraft...
+> carregando minecraft...
 
-> loading pokemon...
+> carregando pokemon...
 
-> stars loaded ⭐
+> carregando estrelas...
 
-> moon loaded 🌙
+> carregando pixel art...
 
-> profile online 💜
+> perfil online 💜
 ```
 
 ---
 
 <div align="center">
 
-# ✨ PROFILE VIEWS ✨
+# ✨ Visualizações do Perfil
 
-<img src="https://komarev.com/ghpvc/?username=Limasoussa&label=VISITORS&color=A855F7&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Limasoussa&style=for-the-badge&color=A855F7"/>
 
 </div>
 
@@ -240,14 +283,14 @@ GAMER MODE ....... ENABLED
 
 <div align="center">
 
-⭐ 🌙 ⭐ 🌙 ⭐ 🌙 ⭐ 🌙 ⭐
+⭐ ✦ 🌙 ✦ ⭐ ✦ 🌙 ✦ ⭐ ✦ 🌙 ✦ ⭐
 
-<img src="https://media.tenor.com/8Q0s8JYx4jQAAAAi/stars.gif" width="120">
+### 💜 Obrigada por visitar meu perfil 💜
 
-### 💜 Thanks for visiting my profile 💜
-
-<img src="https://media.tenor.com/8Q0s8JYx4jQAAAAi/stars.gif" width="120">
-
-⭐ 🌙 ⭐ 🌙 ⭐ 🌙 ⭐ 🌙 ⭐
+⭐ ✦ 🌙 ✦ ⭐ ✦ 🌙 ✦ ⭐ ✦ 🌙 ✦ ⭐
 
 </div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=12,20,24,30&section=footer"/>
