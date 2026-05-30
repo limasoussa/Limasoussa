@@ -20,12 +20,6 @@ Olá! Eu sou <b>Fernanda Lima</b> 💜
 
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=1200&lines=⭐+Fernanda+Lima;💜+Desenvolvedora+Front-End;⚡+Java+•+JavaScript+•+Python;🎨+Artista+Iniciante;🌙+Fã+de+Pokémon+e+Minecraft;✨+Sempre+Aprendendo+Coisas+Novas"/>
-
-</div>
-
 <br>
 
 <div align="center">
@@ -152,13 +146,6 @@ interesses:
 
 <div align="center">
 
-# 🏆 Conquistas
-
-<img src="https://github-profile-trophy.vercel.app/?username=Limasoussa&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=2"/>
 
 # 📚 Estudando Atualmente
 
